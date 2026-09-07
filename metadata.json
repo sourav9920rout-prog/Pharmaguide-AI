@@ -1,0 +1,8 @@
+{
+  "name": "PharmaGuide AI",
+  "description": "Professional pharmacology assistant for detailed drug lookup, interaction checking, and clinical guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
